@@ -4,11 +4,15 @@ __Duration__: Nov 2017 - Dec 2017
 
 __Description__: MoviePedia is a web application which helps to search for a movie using combinations of multiple search criteria. Being the part of Applied Database course it demands the use of large dataset, database normalization, and use of database concepts like joins, subqueries, dynamic queries, procedures, triggers, and indexes. In order to fetch and display records in chunks, pagination was implemented using procedures.
 
+__Demo Video__: https://drive.google.com/file/d/1pxuFuXIf517jupDuFIOpk3GQUXGoDuKQ/view
+
 __Course__: Applied Database (Fall 2016)
 
 __Technologies__: AngularJS, Bootstrap, PHP and MySQL
 
 __Role__: Software Developer
+
+__Project Relevant Files__: https://drive.google.com/drive/folders/1V6Vs77o2T0_LfA3QwfgDD1VRXJi7ydFX
 
 __Responsibilities__:
 
